@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Галерея искусства</string>
+
+    <string name="btn_previous">Предыдущий</string>
+    <string name="btn_next">Следующий</string>
+
+    <string name="btn_previous_hint">Перейти к предыдущему произведению</string>
+    <string name="btn_next_hint">Перейти к следующему произведению</string>
+
+    <string name="artwork1_title">Утро в сосновом лесу</string>
+    <string name="artwork1_artist">Иван Шишкин и Константин Савицкий</string>
+    <string name="artwork1_year">1889</string>
+
+    <string name="artwork2_title">Демон</string>
+    <string name="artwork2_artist">Михаил Врубель</string>
+    <string name="artwork2_year">1890</string>
+
+    <string name="artwork3_title">Иван Грозный и сын его Иван 16 ноября 1581 года</string>
+    <string name="artwork3_artist">Илья Репин</string>
+    <string name="artwork3_year">1883-1885</string>
+
+    <string name="artwork4_title">Бурлаки на Волге</string>
+    <string name="artwork4_artist">Илья Репин</string>
+    <string name="artwork4_year">1870-1873</string>
+</resources>

@@ -1,3 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">laba2</string>
+    <string name="app_name">Art Gallery</string>
+
+    <string name="btn_previous">Previous</string>
+    <string name="btn_next">Next</string>
+
+    <string name="btn_previous_hint">Go to previous artwork</string>
+    <string name="btn_next_hint">Go to next artwork</string>
+
+    <string name="artwork1_title">Morning in a Pine Forest</string>
+    <string name="artwork1_artist">Ivan Shishkin and Konstantin Savitsky</string>
+    <string name="artwork1_year">1889</string>
+
+    <string name="artwork2_title">The Demon Seated</string>
+    <string name="artwork2_artist">Mikhail Vrubel</string>
+    <string name="artwork2_year">1890</string>
+
+    <string name="artwork3_title">Ivan the Terrible and His Son Ivan on November 16, 1581</string>
+    <string name="artwork3_artist">Ilya Repin</string>
+    <string name="artwork3_year">1883–1885</string>
+
+    <string name="artwork4_title">Barge Haulers on the Volga</string>
+    <string name="artwork4_artist">Ilya Repin</string>
+    <string name="artwork4_year">1870–1873</string>
 </resources>
